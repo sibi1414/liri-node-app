@@ -1,0 +1,31 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "nodeapp",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "liribot"
+  ],
+  
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibi1414/liri-node-app.git"
+  },
+  
+  "author": "SMJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibi1414/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/sibi1414/liri-node-app#readme",
+  "dependencies": {
+    "imdb-api": "^3.1.1",
+    "node-spotify-api": "^1.0.6",
+    "omdb-api-client": "^2.0.1",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
